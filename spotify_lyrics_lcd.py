@@ -13,8 +13,8 @@ import requests
 from spotipy.oauth2 import SpotifyOAuth
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-SPOTIPY_CLIENT_ID     = "6f530ae45c984f9f890acc0a09b90edf"
-SPOTIPY_CLIENT_SECRET = "6fe3efa2b4314872933af086c7867f0e"
+SPOTIPY_CLIENT_ID     = ""
+SPOTIPY_CLIENT_SECRET = ""
 SPOTIPY_REDIRECT_URI  = "http://127.0.0.1:8080/callback"
 
 SERIAL_PORT         = "/dev/tty.usbmodem101"
